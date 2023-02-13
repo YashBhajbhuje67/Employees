@@ -21,17 +21,14 @@ const Users = ({count}) => {
     }
 
     useEffect(()=>{
-        setData([]);
-        setShowLoader(true);
-        fetchData();
+      setShowLoader(true);
+      setData([]);
+      fetchData();
+      const timer = setTimeout(() => {
+        setShowLoader(false);
+      }, 1000);
+      return () => clearTimeout(timer);
     }, [count]);
-
-    useEffect(() => {
-        const timer = setTimeout(() => {
-          setShowLoader(false);
-        }, 1000);
-        return () => clearTimeout(timer);
-      }, [count]);
 
   return (
     <>{showLoader ? <img src={Loading} alt='Loading' className='relative left-[45%] top-32'/>:
