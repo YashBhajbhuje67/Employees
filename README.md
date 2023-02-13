@@ -29,4 +29,5 @@ User.jsx
  for css tailwind CSS is used.
  1. For Each data received from Users.jsx we will make a card (using css) and it will be displayed on the screen.
  
+ Time Completion: 4hrs for Code.
  If you like it a star will be appreciated. 
