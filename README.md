@@ -5,5 +5,5 @@ Technologies Used: Vite, React, Html, TailwindCSS for custom CSS and mainly Java
  2. yarn run dev
 
 # Not able to run ?
- here's my deployed link- https://vercel.com/yashbhajbhuje67/user
+ here's my deployed link- https://user-yashbhajbhuje67.vercel.app/
  Click on it and enjoy the show 😎
