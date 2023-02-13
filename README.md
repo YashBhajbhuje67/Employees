@@ -2,7 +2,11 @@ Technologies Used: Vite, React, Html, TailwindCSS for custom CSS and mainly Java
 
 # How to run?
  1. yarn
- 2. yarn run dev
+ 2. yarn add -D tailwindcss postcss autoprefixer
+ 3. yarn tailwindcss init -p
+ 4. yarn run dev
+ 
+ Step no. 2 and 3 are for adding tailwindCSS in project for more visit https://tailwindcss.com/docs/guides/vite.
 
 # Not able to run?
  here's my deployed link- https://user-yashbhajbhuje67.vercel.app/ to view.
