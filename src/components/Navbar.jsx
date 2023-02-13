@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../assets/Yashimg.png' 
+import image from '../Assets/Yashimg.png' 
 
 const Navbar = ({changeDisplay}) => {
 
