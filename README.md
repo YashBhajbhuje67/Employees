@@ -9,7 +9,7 @@ Technologies Used: Vite, React, Html, TailwindCSS for CSS and mainly JavaScript.
  Step no. 2 and 3 are for adding tailwindCSS in project for more visit https://tailwindcss.com/docs/guides/vite.
 
 # Not able to run?
- here's my deployed link- https://user-yashbhajbhuje67.vercel.app/ to view.
+ here's my deployed link- https://user-ruby.vercel.app or https://user-yashbhajbhuje67.vercel.app to view.
  
 # Explanation :
 Navbar.jsx
