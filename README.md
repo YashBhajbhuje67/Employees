@@ -2,9 +2,7 @@ Technologies Used: Vite, React, Html, TailwindCSS for CSS and mainly JavaScript.
 
 # How to run?
  1. yarn
- 2. yarn add -D tailwindcss postcss autoprefixer
- 3. yarn tailwindcss init -p
- 4. yarn run dev
+ 2. yarn dev / yarn run dev
  
  Step no. 2 and 3 are for adding tailwindCSS in project for more visit https://tailwindcss.com/docs/guides/vite.
 
