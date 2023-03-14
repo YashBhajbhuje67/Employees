@@ -4,7 +4,6 @@ Technologies Used: Vite, React, Html, TailwindCSS for CSS and mainly JavaScript.
  1. yarn
  2. yarn dev / yarn run dev
  
- Step no. 2 and 3 are for adding tailwindCSS in project for more visit https://tailwindcss.com/docs/guides/vite.
 
 # Not able to run?
  here's my deployed link- https://user-ruby.vercel.app or https://user-yashbhajbhuje67.vercel.app to view.
@@ -28,7 +27,7 @@ Users.jsx
  5. After receiving user data and storing it in Data it will map through it and each data will be passed down to User.jsx.
  
 User.jsx
- for css tailwind CSS is used.
+ for css tailwindCSS is used.
  1. For Each data received from Users.jsx we will make a card (using css) and it will be displayed on the screen.
  
  Time Completion: 4hrs for Code.
